@@ -1,0 +1,59 @@
+body {
+    text-align: center;
+    width: 100%;
+    background-color: aqua;
+}
+
+.line {
+    height: 6px;
+    width: 60px;
+    color: black;
+}
+
+.img {
+    width: 450px;
+    margin-left: 50px;
+}
+
+#image {
+    width: 700px;
+    margin-right: 50px;
+}
+
+.contact_1 h3 {
+    display: inline;
+}
+
+#contact {
+    background-color: green;
+}
+
+#contact iframe {
+    width: 100%;
+}
+
+.menu {
+
+    font-family: 'New Tegomin', serif;
+    position: fixed;
+    top: 0px;
+    margin-top: 0px;
+    z-index: 10;
+    font-size: 20px;
+    list-style: none;
+    width: 100%;
+    background-color: yellow;
+}
+
+.links {
+    color: aqua;
+    padding-left: 33px;
+    padding-right: 25px;
+    font-family: 'New Tegomin', serif;
+    display: inline;
+}
+
+.links:hover {
+    background-color: green;
+    font-size: 25px;
+}
